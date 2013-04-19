@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/usr/share/vim/vim73'
+let g:netrw_dirhist_2='/usr/share/vim/vim73/lang'
+let g:netrw_dirhist_3='/usr/share/vim/vim73'
+let g:netrw_dirhist_4='/usr/share/vim/vim73/colors'
+let g:netrw_dirhist_5='/usr/share/vim/vim73'
+let g:netrw_dirhist_6='/Applications/MacVim.app/Contents/Resources/vim/runtime'
+let g:netrw_dirhist_7='/Applications/MacVim.app/Contents/Resources/vim/runtime/colors'
+let g:netrw_dirhist_8='/projects/test_svn/.arc'
+let g:netrw_dirhist_9='/projects/hef-test-heroku'
